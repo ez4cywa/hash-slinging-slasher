@@ -79,6 +79,9 @@ table under a name you would not have guessed is the thing you are about to rebu
 |---|---:|---:|---:|---:|---:|---:|---:|---|---|---|
 | one token of a known sound alias replaced by a word of the call of duty wiki's page titles | 1 | 4 | 1,114 | 1,114 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | one token of a known xanim replaced by a word of the call of duty wiki's page titles | 1 | 3 | 194 | 194 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
+| one token of a known image replaced or a word inserted beside it, from the type's vocabulary | 1 | 4 | 1,342 | 1,342 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
+| one token of a known sound asset replaced or a word inserted beside it, from the type's vocabulary | 1 | 4 | 20,217 | 20,217 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
+| operator dialogue files: a line known for one operator tried for every speaker with an alias for that event | 1 | 2 | 25,716 | 25,716 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | test | 1 | 1 | 5 | 5 | 1 | 1 | 1 | 2026-09-09 | 2026-09-09 | untried |
 | voice-over from the per-language tables, language moved from the ending to the path | 1 | 1 | 257 | 257 | 1 | 1 | 1 | 2026-09-10 | 2026-09-10 | untried |
 | sound asset meet-in-the-middle 1-2 token gap fill inside named sab-bank families | 1 | 1 | 794 | 794 | 1 | 1 | 1 | 2026-09-10 | 2026-09-10 | untried |
@@ -137,15 +140,20 @@ table under a name you would not have guessed is the thing you are about to rebu
 | exact alias rule-delta vocabulary reused in mwiii | 1 | 1 | 78 | 78 | 1 | 1 | 1 | 2026-10-09 | 2026-10-09 | untried |
 | one token of a known sound alias replaced by a word of the type's vocabulary, hits as next skeletons | 1 | 4 | 87,205 | 87,206 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | one token of a known sound alias replaced, or a word inserted beside it, from the wide vocabulary of every type | 1 | 4 | 21,108 | 21,109 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
+| one token of a known image replaced, from the type's vocabulary | 1 | 4 | 3,130 | 3,132 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | one token of a known image replaced by a word of the type's vocabulary, hits as next skeletons | 1 | 4 | 9,931 | 9,939 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | one token of a known image replaced, or a word inserted beside it, from the wide vocabulary of every type | 1 | 4 | 6,347 | 6,353 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
+| one token of a known sound alias replaced, from the type's vocabulary | 1 | 4 | 1,578 | 1,580 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | one token of a known xanim replaced by a word of the type's vocabulary, hits as next skeletons | 1 | 4 | 1,529 | 1,532 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | xmodel: gpu 1-2 token gap fill over xmodel prefixes x xmodel tokens x xmodel endings | 1 | 1 | 451 | 452 | 1 | 1 | 1 | 2026-09-11 | 2026-09-11 | untried |
+| one token of a known sound alias replaced or a word inserted beside it, from the type's vocabulary | 1 | 4 | 697 | 699 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | one token of a known xanim replaced, or a word inserted beside it, from the wide vocabulary of every type | 1 | 4 | 926 | 929 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | xanim: gpu 1-2 token gap fill over animation prefixes x animation tokens x animation endings | 1 | 1 | 273 | 274 | 1 | 1 | 1 | 2026-09-11 | 2026-09-11 | untried |
 | one token of a known sound asset replaced by a word of the type's vocabulary, hits as next skeletons | 1 | 4 | 2,466 | 2,479 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
+| one token of a known xanim replaced, from the type's vocabulary | 1 | 4 | 534 | 537 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | light description: editor default names new<31-bit int>, exhaustive digit sweep on gpu | 1 | 1 | 548 | 552 | 1 | 1 | 1 | 2026-09-13 | 2026-09-13 | untried |
 | one token of a known image replaced by a word of the call of duty wiki's page titles | 1 | 4 | 245 | 247 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
+| one token of a known sound asset replaced, from the type's vocabulary | 1 | 4 | 1,152 | 1,165 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | bo4: systematic token-slot template mining across every pocket, iterated to convergence | 1 | 1 | 1,473 | 1,492 | 1 | 1 | 1 | 2026-09-13 | 2026-09-13 | untried |
 | one token of a known material replaced by a word of the type's vocabulary, hits as next skeletons | 1 | 4 | 15,910 | 16,140 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | scriptparsetree/luafile/ddl/stringtable: the dump's own file paths, pockets nobody searches | 1 | 1 | 7,038 | 7,195 | 1 | 1 | 1 | 2026-09-11 | 2026-09-11 | untried |
@@ -157,12 +165,16 @@ table under a name you would not have guessed is the thing you are about to rebu
 | gpt-2 name families + substitution | 1 | 1 | 45 | 49 | 1 | 1 | 1 | 2026-10-10 | 2026-10-10 | untried |
 | community-provided mw4 hash package | 1 | 1 | 33,593 | 36,949 | 1 | 1 | 1 | 2026-10-08 | 2026-10-08 | untried |
 | bo4: three-way model/material/image core mirror | 1 | 1 | 101 | 112 | 1 | 1 | 1 | 2026-09-14 | 2026-09-14 | untried |
+| one token of a known material replaced or a word inserted beside it, from the type's vocabulary | 1 | 4 | 3,185 | 3,542 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | one token of a known material replaced by a word of the call of duty wiki's page titles | 1 | 4 | 210 | 234 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | bo4: identifier strings read from the retail install's raw 179.8 gb casc packages | 1 | 1 | 401 | 448 | 1 | 1 | 1 | 2026-09-12 | 2026-09-12 | untried |
+| one token of a known material replaced, from the type's vocabulary | 1 | 4 | 1,990 | 2,250 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | bo4: consonant-skeleton and truncation variants of proper nouns in creature-bearing templates | 1 | 1 | 1,185 | 1,355 | 1 | 1 | 1 | 2026-09-13 | 2026-09-13 | untried |
 | bo4: merged token-slot categories cross-producted over every template in the corpus | 1 | 1 | 579 | 688 | 1 | 1 | 1 | 2026-09-12 | 2026-09-12 | untried |
 | bo4: exhaustive 3-5 char speaker-token search on the alias side and the vo path shape | 1 | 1 | 176 | 210 | 1 | 1 | 1 | 2026-09-11 | 2026-09-11 | untried |
+| one token of a known material replaced or a word inserted beside it (skeletons: model material links), from the type's vocabulary | 1 | 4 | 3,650 | 4,414 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | sound asset: gpu 1-2 token gap fill inside every known sound directory | 1 | 1 | 8 | 10 | 1 | 1 | 1 | 2026-09-11 | 2026-09-11 | untried |
+| dialogue files from the subtitle keys: title and text from the key, every known directory of that title and mode | 1 | 2 | 235 | 295 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | bo4: per-pocket template mining, second pass on the enlarged corpus | 1 | 1 | 160 | 203 | 1 | 1 | 1 | 2026-09-14 | 2026-09-14 | untried |
 | music: multiplayer sets 06/07 grid (mpn <cue> v<ver> <mix>) + editor-default light names | 1 | 1 | 21 | 27 | 1 | 1 | 1 | 2026-09-13 | 2026-09-13 | untried |
 | beam names recovered live via saluki | 1 | 1 | 26 | 34 | 1 | 1 | 1 | 2026-09-14 | 2026-09-14 | untried |
@@ -170,19 +182,22 @@ table under a name you would not have guessed is the thing you are about to rebu
 | bo4: gpu gap fill over prefixes built from the 102 enemy spawner names of the aitype tables | 1 | 1 | 10 | 14 | 1 | 1 | 1 | 2026-09-11 | 2026-09-11 | untried |
 | zombies vo: mitm round 4 (white/orange, npc seeds) + gpu 3-token gap fill, first 22 prefixes | 1 | 1 | 419 | 619 | 1 | 1 | 1 | 2026-09-10 | 2026-09-10 | untried |
 | composite materials of three layers (twc), enumerated whole; about three chance matches expected | 1 | 4 | 2,549 | 3,811 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
+| dialogue files: the stem given by the subtitle key, the directory searched over the vocabulary | 1 | 3 | 28 | 48 | 1 | 1 | 2 | 2026-10-11 | 2026-10-11 | live |
 | bo4: numeric-sibling completion across every non-sound pocket | 1 | 1 | 29 | 51 | 1 | 1 | 1 | 2026-09-14 | 2026-09-14 | untried |
+| aliases sampled from a token-level language model trained on the known aliases | 1 | 4 | 535 | 952 | 1 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | image: gpu 1-2 token gap fill over image prefixes x image tokens x channel endings | 2 | 2 | 348 | 642 | 1 | 1 | 6 | 2026-09-11 | 2026-09-11 | cooling |
 | zombies player-line files read back as aliases | 1 | 1 | 40 | 80 | 2 | 2 | 2 | 2026-10-05 | 2026-10-05 | untried |
+| two tokens of a known xanim replaced at once, each from the alphabet of its slot | 1 | 8 | 387 | 813 | 2 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | bo4: truncation and skeleton variants of every vocabulary word in every single-slot template | 1 | 1 | 87 | 187 | 2 | 2 | 2 | 2026-09-13 | 2026-09-13 | untried |
-| two tokens of a known xanim replaced at once, each from the alphabet of its slot | 1 | 4 | 322 | 748 | 2 | 1 | 5 | 2026-10-11 | 2026-10-11 | cooling |
+| two tokens of a known material replaced at once, each from the alphabet of its slot | 1 | 12 | 1,947 | 4,453 | 2 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | bo4: merged token-slot categories, second pass on the enlarged corpus | 1 | 1 | 78 | 194 | 2 | 2 | 2 | 2026-09-14 | 2026-09-14 | untried |
+| composite materials of three layers enumerated whole | 1 | 4 | 238 | 593 | 2 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | bo4: every string in the dump hashed against every pocket | 1 | 1 | 6,240 | 15,741 | 2 | 2 | 2 | 2026-09-11 | 2026-09-11 | untried |
-| two tokens of a known sound alias replaced at once, each from the alphabet of its slot | 1 | 4 | 1,183 | 3,396 | 2 | 2 | 5 | 2026-10-11 | 2026-10-11 | live |
+| two tokens of a known sound alias replaced at once, each from the alphabet of its slot | 1 | 8 | 1,331 | 3,544 | 2 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | richkiller bo4 decoded texture ledger | 1 | 1 | 7,488 | 22,210 | 2 | 2 | 2 | 2026-09-04 | 2026-09-04 | untried |
 | zm red slot search: glossary, spatial and visual neighbours | 1 | 1 | 60 | 180 | 3 | 3 | 3 | 2026-10-10 | 2026-10-10 | untried |
 | composite materials of two layers, enumerated whole | 1 | 3 | 2,873 | 8,658 | 3 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
-| two tokens of a known material replaced at once, each from the alphabet of its slot | 1 | 4 | 1,042 | 3,476 | 3 | 2 | 7 | 2026-10-11 | 2026-10-11 | cooling |
-| two tokens of a known image replaced at once, each from the alphabet of its slot | 1 | 4 | 1,816 | 6,688 | 3 | 1 | 38 | 2026-10-11 | 2026-10-11 | spent |
+| two tokens of a known image replaced at once, each from the alphabet of its slot | 1 | 7 | 2,140 | 7,012 | 3 | 1 | 1 | 2026-10-11 | 2026-10-11 | live |
 | two tokens of a known sound asset replaced at once, each from the alphabet of its slot | 1 | 4 | 2,590 | 9,760 | 3 | 1 | 71 | 2026-10-11 | 2026-10-11 | spent |
 | xanim: gpu three-token meet-in-the-middle gap fill over 1500 animation prefixes | 1 | 1 | 68 | 273 | 4 | 4 | 4 | 2026-09-11 | 2026-09-11 | untried |
 | sound files from the bo2/bo3 published folder trees | 1 | 1 | 2,603 | 11,036 | 4 | 4 | 4 | 2026-09-09 | 2026-09-09 | untried |
@@ -196,13 +211,14 @@ table under a name you would not have guessed is the thing you are about to rebu
 | jointly witnessed alias pair rules on verified new source names | 1 | 1 | 2,677 | 29,352 | 10 | 10 | 10 | 2026-10-09 | 2026-10-09 | untried |
 | zombies map lines, file parts reordered as aliases | 1 | 1 | 412 | 4,759 | 11 | 11 | 11 | 2026-10-05 | 2026-10-05 | untried |
 | bo4: gpu gap fill with a vocabulary taken from the game's own english subtitles | 1 | 1 | 77 | 1,056 | 13 | 13 | 13 | 2026-09-11 | 2026-09-11 | untried |
-| final byte solved backwards | 1 | 278 | 389,731 | 5,999,397 | 15 | 1 | 4 | 2026-08-22 | 2026-10-11 | cooling |
+| final byte solved backwards | 1 | 287 | 389,749 | 5,999,576 | 15 | 1 | 10 | 2026-08-22 | 2026-10-12 | cooling |
 | bo4: exhaustive 1-9 character enumeration over [a-z0-9 ] against every pocket | 1 | 1 | 3 | 49 | 16 | 16 | 16 | 2026-09-13 | 2026-09-13 | untried |
 | bo4: exhaustive 9-character enumeration, decode fixed | 1 | 1 | 4 | 71 | 17 | 17 | 17 | 2026-09-13 | 2026-09-13 | untried |
 | sound alias: mp/blackout dialog aliases cracked from the mpdialog player script bundles | 1 | 1 | 30 | 570 | 19 | 19 | 19 | 2026-09-11 | 2026-09-11 | untried |
 | bo4: player outfit grid with outfit tokens harvested from loot tables, unlockable items and subtitles | 1 | 1 | 52 | 1,020 | 19 | 19 | 19 | 2026-09-13 | 2026-09-13 | untried |
 | aliases from sound-file basenames, two-letter-codec files included | 1 | 2 | 61,096 | 1,482,617 | 24 | 20 | 20 | 2026-10-08 | 2026-10-08 | live |
 | zombies vo: gpu 1-2 token gap fill over all crew/npc speaker prefixes | 1 | 1 | 1,507 | 38,338 | 25 | 25 | 25 | 2026-09-10 | 2026-09-10 | untried |
+| today's bo6/bo7 finds across modern games | 1 | 1 | 129 | 3,289 | 25 | 25 | 25 | 2026-10-12 | 2026-10-12 | untried |
 | sound alias: gpu 1-2 token gap fill over 4500 alias prefixes x 10k alias-token vocabulary x the real alias endings | 1 | 1 | 325 | 9,655 | 29 | 29 | 29 | 2026-09-11 | 2026-09-11 | untried |
 | independently sourced alias paired-rule support delta | 1 | 1 | 787 | 24,289 | 30 | 30 | 30 | 2026-10-09 | 2026-10-09 | untried |
 | bo4: composition grids round 2 - attachment unique with expanded weapon bases and attachment tokens | 1 | 1 | 31 | 968 | 31 | 31 | 31 | 2026-09-13 | 2026-09-13 | untried |
@@ -270,6 +286,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | gaps | 2 | 5 | 376 | 346,722 | 922 | 190 | 50,180 | 2026-08-20 | 2026-08-27 | spent |
 | other types' stems as material bases under every material directory | 1 | 2 | 63,792 | 62,144,250 | 974 | 810 | 810 | 2026-10-08 | 2026-10-08 | live |
 | verified material vocabulary delta to witnessed image wrappers | 1 | 1 | 692 | 688,373 | 994 | 994 | 994 | 2026-10-09 | 2026-10-09 | untried |
+| witnessed animation block length changes | 1 | 1 | 89 | 90,236 | 1,013 | 1,013 | 1,013 | 2026-10-12 | 2026-10-12 | untried |
 | aliases from sound-file basenames | 3 | 3 | 1,023 | 1,067,589 | 1,043 | 621 | 177,931 | 2026-10-08 | 2026-10-08 | spent |
 | bo4: bo4-source decompiles, acts hash databases and the dump re-read as raw bytes, hashed against every pocket | 1 | 1 | 9 | 9,510 | 1,056 | 1,056 | 1,056 | 2026-09-12 | 2026-09-12 | untried |
 | independently witnessed atomic alias interior blocks | 1 | 1 | 514 | 557,984 | 1,085 | 1,085 | 1,085 | 2026-10-09 | 2026-10-09 | untried |
@@ -367,6 +384,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | black ops 3 build names, verbatim, full harvest | 1 | 2 | 177 | 2,462,622 | 13,913 | 8,858 | 32,402 | 2026-08-22 | 2026-08-22 | cooling |
 | cold war source filenames and text | 1 | 1 | 151 | 2,102,012 | 13,920 | 13,920 | 13,920 | 2026-08-27 | 2026-08-27 | untried |
 | xanim family grid round 2, head 2 | 3 | 3 | 628 | 8,869,731 | 14,123 | 9,693 | 10,712 | 2026-10-09 | 2026-10-09 | live |
+| materials as a technique prefix and a name the game writes elsewhere | 1 | 4 | 77,566 | 1,119,447,944 | 14,432 | 10,841 | 22,714 | 2026-10-11 | 2026-10-11 | live |
 | every-game transfer after worker finds | 1 | 1 | 429 | 6,221,800 | 14,503 | 14,503 | 14,503 | 2026-10-09 | 2026-10-09 | untried |
 | \ bo4 image siblings from confirmed materials 20260830\ | 1 | 1 | 135 | 2,163,297 | 16,024 | 16,024 | 16,024 | 2026-08-30 | 2026-08-30 | untried |
 | material family grid: middle x final token | 3 | 3 | 1,476 | 23,740,011 | 16,084 | 9,244 | 282,619 | 2026-10-09 | 2026-10-09 | spent |
@@ -443,13 +461,12 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cod-ultimate source literals | 1 | 2 | 12 | 686,330 | 57,194 | 49,023 | 49,023 | 2026-08-31 | 2026-08-31 | live |
 | image siblings of richkiller-derived materials | 1 | 1 | 39 | 2,396,589 | 61,451 | 61,451 | 61,451 | 2026-09-04 | 2026-09-04 | untried |
 | edits anim | 2 | 5 | 208 | 12,868,629 | 61,868 | 15,318 | 15,318 | 2026-08-20 | 2026-08-20 | live |
-| family gap filling | 1 | 126 | 1,570 | 97,538,822 | 62,126 | 654 | 400,374 | 2026-08-19 | 2026-10-11 | spent |
 | mwiii-material-context | 1 | 1 | 348 | 21,755,781 | 62,516 | 62,516 | 62,516 | 2026-10-09 | 2026-10-09 | untried |
 | sound files from aliases, after long-phrase quips | 1 | 1 | 176 | 11,236,875 | 63,845 | 63,845 | 63,845 | 2026-10-05 | 2026-10-05 | untried |
 | cold war animation token edits after new findings | 2 | 2 | 93 | 5,989,742 | 64,405 | 32,080 | 3,038,360 | 2026-08-26 | 2026-08-31 | spent |
-| image siblings of confirmed materials | 1 | 214 | 7,645 | 502,082,364 | 65,674 | 393 | 5,997,204 | 2026-08-19 | 2026-10-10 | spent |
 | image family grid: middle x final token | 5 | 5 | 396 | 26,031,120 | 65,735 | 22,060 | 1,735,408 | 2026-10-09 | 2026-10-09 | spent |
 | image family grid snowball r2 h2 | 3 | 3 | 236 | 15,640,395 | 66,272 | 27,439 | 27,439 | 2026-10-09 | 2026-10-09 | live |
+| family gap filling | 1 | 128 | 1,575 | 104,990,410 | 66,660 | 654 | 931,489 | 2026-08-19 | 2026-10-12 | spent |
 | viewmodel anim <-> player foley alias seam | 1 | 1 | 2 | 134,846 | 67,423 | 67,423 | 67,423 | 2026-10-09 | 2026-10-09 | untried |
 | adjacent-token-order-anim | 1 | 1 | 2 | 136,243 | 68,121 | 68,121 | 68,121 | 2026-08-20 | 2026-08-20 | untried |
 | mwiii-image-context | 1 | 1 | 252 | 17,405,181 | 69,068 | 69,068 | 69,068 | 2026-10-09 | 2026-10-09 | untried |
@@ -459,6 +476,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | rare shared-token splices family size 31-60 | 1 | 2 | 23 | 1,691,810 | 73,556 | 42,295 | 42,295 | 2026-08-28 | 2026-08-28 | live |
 | cross-game transfer round 2 | 1 | 2 | 101 | 7,634,010 | 75,584 | 50,223 | 50,223 | 2026-10-08 | 2026-10-08 | live |
 | paired-token-blocks-anim-lengths2-5-rare | 1 | 5 | 72 | 5,466,329 | 75,921 | 34,115 | 547,307 | 2026-08-20 | 2026-08-20 | spent |
+| image siblings of confirmed materials | 1 | 219 | 7,685 | 587,380,353 | 76,432 | 393 | 4,266,578 | 2026-08-19 | 2026-10-12 | spent |
 | vo sound files derived from known vox  sound aliases: en\vox\scripted\<mode>\<map>\<alias> <n>.sn100 | 1 | 1 | 10,388 | 797,443,920 | 76,765 | 76,765 | 76,765 | 2026-09-10 | 2026-09-10 | untried |
 | sound tail swap: known stems x every modern tail | 1 | 2 | 286 | 22,124,427 | 77,358 | 46,670 | 225,785 | 2026-10-08 | 2026-10-08 | cooling |
 | bo3 mod tools asset names | 1 | 2 | 22 | 1,735,532 | 78,887 | 78,887 | 78,887 | 2026-08-24 | 2026-08-24 | live |
@@ -466,6 +484,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | sound files from aliases with takes, after pooled grid rows | 1 | 1 | 35 | 2,904,447 | 82,984 | 82,984 | 82,984 | 2026-10-01 | 2026-10-01 | untried |
 | other types' stems as image stems x measured image endings | 1 | 2 | 64,177 | 5,328,425,550 | 83,027 | 68,871 | 68,871 | 2026-10-08 | 2026-10-08 | live |
 | mw4-alias-context | 1 | 1 | 58 | 4,918,981 | 84,810 | 84,810 | 84,810 | 2026-10-09 | 2026-10-09 | untried |
+| sound files and aliases named across the alias -> file link of the zones | 1 | 1 | 37 | 3,317,020 | 89,649 | 89,649 | 89,649 | 2026-10-11 | 2026-10-11 | untried |
 | sound paths with a repeated word, filled from the family | 1 | 4 | 84 | 7,545,486 | 89,827 | 47,768 | 47,768 | 2026-10-05 | 2026-10-05 | live |
 | rare-token-compound-splice-model | 1 | 2 | 60 | 5,611,060 | 93,517 | 80,164 | 80,164 | 2026-08-20 | 2026-08-20 | live |
 | mwii-sound-directory-spellings | 1 | 1 | 29 | 2,790,571 | 96,226 | 96,226 | 96,226 | 2026-10-09 | 2026-10-09 | untried |
@@ -542,7 +561,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | refreshed mcdp material core redecorations | 1 | 1 | 5 | 1,198,717 | 239,743 | 239,743 | 239,743 | 2026-08-28 | 2026-08-28 | untried |
 | xanim family grid h2 r1 | 3 | 3 | 39 | 9,501,074 | 243,617 | 122,290 | 122,290 | 2026-10-09 | 2026-10-09 | live |
 | speaker grids re-run cw | 1 | 1 | 6 | 1,466,925 | 244,487 | 244,487 | 244,487 | 2026-08-24 | 2026-08-24 | untried |
-| image channel completion | 1 | 171 | 1,796 | 440,149,267 | 245,071 | 5,159 | 960,309 | 2026-08-20 | 2026-10-11 | spent |
+| image channel completion | 1 | 173 | 1,800 | 445,977,135 | 247,765 | 5,159 | 1,457,072 | 2026-08-20 | 2026-10-12 | spent |
 | xanim family grid round 1, head 1 | 2 | 2 | 24 | 6,005,858 | 250,244 | 158,048 | 158,048 | 2026-10-09 | 2026-10-09 | live |
 | token insertion and deletion anim | 1 | 1 | 12 | 3,115,854 | 259,654 | 259,654 | 259,654 | 2026-09-07 | 2026-09-07 | untried |
 | bo7 package modifiers and terrain orders shared with mwii | 1 | 1 | 6 | 1,605,332 | 267,555 | 267,555 | 267,555 | 2026-10-09 | 2026-10-09 | untried |
@@ -628,8 +647,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | slot swap from end w2 material r1 | 2 | 2 | 96 | 53,830,703 | 560,736 | 545,055 | 577,085 | 2026-10-09 | 2026-10-09 | live |
 | twcj 4-token names: known 3-token name + appended token | 1 | 2 | 12 | 6,801,020 | 566,751 | 485,787 | 680,102 | 2026-10-09 | 2026-10-09 | live |
 | material family grid snowball r1 h3 | 1 | 1 | 16 | 9,095,890 | 568,493 | 568,493 | 568,493 | 2026-10-09 | 2026-10-09 | untried |
-| materials from image cores | 1 | 172 | 1,488 | 846,510,600 | 568,891 | 9,045 | 2,906,616 | 2026-08-20 | 2026-10-10 | spent |
 | rare shared-token splices family size 481-960 | 1 | 2 | 128 | 73,051,283 | 570,713 | 314,886 | 314,886 | 2026-08-28 | 2026-08-28 | live |
+| materials from image cores | 1 | 173 | 1,489 | 853,194,336 | 572,998 | 9,045 | 6,683,736 | 2026-08-20 | 2026-10-12 | spent |
 | twj 3-token names: known 2-token name + appended token | 1 | 1 | 5 | 2,880,432 | 576,086 | 576,086 | 576,086 | 2026-10-09 | 2026-10-09 | untried |
 | cold war same-directory outer-inner cross | 1 | 3 | 9 | 5,196,762 | 577,418 | 577,418 | 577,418 | 2026-08-27 | 2026-08-27 | live |
 | final byte substitution | 1 | 2 | 121 | 70,135,764 | 579,634 | 467,581 | 467,581 | 2026-08-22 | 2026-08-22 | live |
@@ -936,6 +955,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | \ bo4 rare shared-token splice family 3001-3300 material\ | 1 | 1 | 1 | 5,966,596 | 5,966,596 | 5,966,596 | 5,966,596 | 2026-08-28 | 2026-08-28 | untried |
 | corpus-mined substitutions, top 1000 | 1 | 4 | 24 | 145,853,160 | 6,077,215 | 4,050,931 | 18,234,083 | 2026-08-27 | 2026-08-27 | cooling |
 | two-word slots, web bigrams ranked 100k+ | 1 | 1 | 178 | 1,083,632,880 | 6,087,825 | 6,087,825 | 6,087,825 | 2026-10-05 | 2026-10-05 | untried |
+| fresh confirmed-only cores against modwar7, own endings | 1 | 1 | 180 | 1,099,155,343 | 6,106,418 | 6,106,418 | 6,106,418 | 2026-10-12 | 2026-10-12 | untried |
 | context swap xanim r2 | 2 | 2 | 4 | 25,283,313 | 6,320,828 | 6,265,634 | 6,486,409 | 2026-10-09 | 2026-10-10 | live |
 | long image channels on every material and image core | 1 | 8 | 990 | 6,271,016,051 | 6,334,359 | 704,827 | 25,867,407 | 2026-10-09 | 2026-10-11 | spent |
 | ab snowball r2 sound: new cores x all endings | 1 | 8 | 56 | 354,903,549 | 6,337,563 | 650,006 | 7,400,074 | 2026-09-29 | 2026-10-05 | spent |
@@ -1004,6 +1024,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | token edits material | 1 | 1 | 3 | 33,118,937 | 11,039,645 | 11,039,645 | 11,039,645 | 2026-09-03 | 2026-09-03 | untried |
 | weapon-slot plan for newly found bo7 weapons | 1 | 1 | 6 | 68,337,384 | 11,389,564 | 11,389,564 | 11,389,564 | 2026-10-09 | 2026-10-09 | untried |
 | precedents top20 | 2 | 2 | 5 | 57,508,152 | 11,501,630 | 7,188,519 | 7,188,519 | 2026-09-02 | 2026-09-02 | live |
+| model-name stems as images | 1 | 4 | 224 | 2,597,400,432 | 11,595,537 | 3,077,488 | 216,450,036 | 2026-10-12 | 2026-10-12 | spent |
 | execution quips, topic + function word triples, one speaker | 1 | 1 | 9 | 107,850,176 | 11,983,352 | 11,983,352 | 11,983,352 | 2026-10-06 | 2026-10-06 | untried |
 | pooled insert-delete sound alias r2 | 1 | 1 | 2 | 23,981,477 | 11,990,738 | 11,990,738 | 11,990,738 | 2026-10-10 | 2026-10-10 | untried |
 | cold war uncarried four-segment endings current | 1 | 1 | 5 | 60,407,129 | 12,081,425 | 12,081,425 | 12,081,425 | 2026-08-31 | 2026-08-31 | untried |
@@ -1073,7 +1094,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war image token insertions and deletions cap8 minseen12 | 1 | 1 | 1 | 22,877,777 | 22,877,777 | 22,877,777 | 22,877,777 | 2026-09-08 | 2026-09-08 | untried |
 | yamyamok sound directories and tails with confirmed modern basenames | 1 | 1 | 1,106 | 26,529,272,280 | 23,986,683 | 23,986,683 | 23,986,683 | 2026-10-09 | 2026-10-09 | untried |
 | image head swap | 1 | 4 | 456 | 11,005,506,000 | 24,134,881 | 12,495,151 | 89,639,032 | 2026-10-08 | 2026-10-08 | cooling |
-| tails of length 3 | 1 | 251 | 421,826 | 10,281,292,251,050 | 24,373,301 | 1,196,677 | 13,381,672 | 2026-08-22 | 2026-10-11 | spent |
+| operator dialogue files as their grid and the squeezed english subtitle | 1 | 2 | 22,396 | 542,542,861,854 | 24,224,989 | 23,502,983 | 24,992,761 | 2026-10-11 | 2026-10-11 | live |
 | voice phrase grids, probed with wiki dialogue transcripts | 1 | 1 | 2 | 49,396,982 | 24,698,491 | 24,698,491 | 24,698,491 | 2026-10-07 | 2026-10-07 | untried |
 | keyword sweep: zombie models | 1 | 1 | 4 | 100,074,665 | 25,018,666 | 25,018,666 | 25,018,666 | 2026-08-21 | 2026-08-21 | untried |
 | ab snowball r1 visual: new cores x all endings | 1 | 14 | 79 | 1,983,006,610 | 25,101,349 | 2,662,508 | 154,200,514 | 2026-09-29 | 2026-10-06 | spent |
@@ -1081,6 +1102,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | ab snowball r6 sound: new cores x all endings | 1 | 2 | 3 | 77,000,770 | 25,666,923 | 19,250,192 | 19,250,192 | 2026-10-01 | 2026-10-01 | live |
 | cold war, uncarried five-segment endings | 1 | 1 | 382 | 9,963,115,100 | 26,081,453 | 26,081,453 | 26,081,453 | 2026-08-23 | 2026-08-23 | untried |
 | yamyamok verified image heads with target-held conventions | 1 | 1 | 106 | 2,787,447,000 | 26,296,669 | 26,296,669 | 26,296,669 | 2026-10-09 | 2026-10-09 | untried |
+| tails of length 3 | 1 | 264 | 422,054 | 11,124,500,414,962 | 26,358,002 | 1,196,677 | 64,898,664,610 | 2026-08-22 | 2026-10-12 | spent |
 | \ bo4 material token edits cap60 minseen1 20260830\ | 1 | 1 | 6 | 158,173,101 | 26,362,183 | 26,362,183 | 26,362,183 | 2026-08-30 | 2026-08-30 | untried |
 | sound uncarried three-segment endings top32000 | 2 | 2 | 88 | 2,360,521,764 | 26,824,110 | 20,004,421 | 40,698,651 | 2026-09-09 | 2026-09-09 | live |
 | open-slot english words, deep | 1 | 2 | 97 | 2,618,852,272 | 26,998,477 | 26,254,828 | 27,894,235 | 2026-10-01 | 2026-10-01 | live |
@@ -1123,6 +1145,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | two-word slots, corpus pairs ranked 120k+ | 1 | 2 | 116 | 4,412,385,691 | 38,037,807 | 37,680,211 | 37,680,211 | 2026-10-01 | 2026-10-01 | live |
 | modwar7 verified material-to-image channel seam | 1 | 1 | 1 | 38,528,896 | 38,528,896 | 38,528,896 | 38,528,896 | 2026-10-09 | 2026-10-09 | untried |
 | packed twc/tw codes, last slot of every 4+ slot code swapped | 1 | 4 | 85 | 3,299,340,016 | 38,815,764 | 18,980,903 | 145,520,260 | 2026-10-09 | 2026-10-09 | cooling |
+| fresh confirmed-only cores against yamyamok, own endings | 1 | 1 | 28 | 1,099,155,343 | 39,255,547 | 39,255,547 | 39,255,547 | 2026-10-12 | 2026-10-12 | untried |
 | sound uncarried two-segment endings top1000 | 2 | 2 | 5 | 196,436,240 | 39,287,248 | 33,992,458 | 60,466,406 | 2026-09-09 | 2026-09-09 | live |
 | ab snowball r4 visual: new cores x all endings | 1 | 4 | 27 | 1,071,603,572 | 39,689,021 | 1,931,256 | 484,051,613 | 2026-10-01 | 2026-10-05 | spent |
 | black ops 4, uncarried three-segment endings | 1 | 2 | 1,058 | 42,578,054,890 | 40,243,908 | 16,329,961 | 157,676,083 | 2026-08-23 | 2026-08-23 | cooling |
@@ -1147,6 +1170,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | single words into two-word slots | 1 | 2 | 19 | 910,470,000 | 47,919,473 | 38,225,000 | 38,225,000 | 2026-10-05 | 2026-10-05 | live |
 | rare shared-token splices family sizes 8401-8700 | 1 | 1 | 1 | 48,782,460 | 48,782,460 | 48,782,460 | 48,782,460 | 2026-08-28 | 2026-08-28 | untried |
 | char substitutions bo4 sounds | 1 | 1 | 21 | 1,035,667,459 | 49,317,498 | 49,317,498 | 49,317,498 | 2026-08-24 | 2026-08-24 | untried |
+| fresh confirmed-only cores against blackop7, own endings | 1 | 1 | 22 | 1,099,155,343 | 49,961,606 | 49,961,606 | 49,961,606 | 2026-10-12 | 2026-10-12 | untried |
+| materials as a technique prefix, a model name and a material-part ending | 1 | 8 | 2,607 | 138,709,596,312 | 53,206,596 | 24,448,456 | 411,299,670 | 2026-10-11 | 2026-10-11 | spent |
 | tails of length 3, every table generation | 1 | 20 | 32,564 | 1,760,646,219,044 | 54,067,258 | 11,674,181 | 17,366,338 | 2026-10-09 | 2026-10-09 | live |
 | material substitutions cw | 1 | 1 | 9 | 492,105,760 | 54,678,417 | 54,678,417 | 54,678,417 | 2026-08-25 | 2026-08-25 | untried |
 | black ops 4, uncarried five-segment endings | 1 | 1 | 182 | 9,963,115,100 | 54,742,390 | 54,742,390 | 54,742,390 | 2026-08-23 | 2026-08-23 | untried |
@@ -1161,6 +1186,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | images for every material prefix x 200 measured channel endings | 1 | 2 | 2 | 138,431,017 | 69,215,508 | 60,958,159 | 60,958,159 | 2026-10-06 | 2026-10-06 | live |
 | material heads x tails shared by >= 2 heads | 1 | 4 | 7,110 | 495,761,933,903 | 69,727,416 | 47,070,443 | 358,630,286 | 2026-10-09 | 2026-10-10 | cooling |
 | slot swap tail width 1 r2 | 1 | 1 | 2 | 144,420,393 | 72,210,196 | 72,210,196 | 72,210,196 | 2026-10-09 | 2026-10-09 | untried |
+| fresh confirmed-only cores against blackop6, own endings | 1 | 1 | 15 | 1,099,155,343 | 73,277,022 | 73,277,022 | 73,277,022 | 2026-10-12 | 2026-10-12 | untried |
+| fresh confirmed-only all-boundary cores under the committed endings | 1 | 1 | 15 | 1,099,155,343 | 73,277,022 | 73,277,022 | 73,277,022 | 2026-10-12 | 2026-10-12 | untried |
 | twc 4-token names: prepended token + known 3-token name | 1 | 2 | 78 | 6,091,136,964 | 78,091,499 | 63,449,343 | 63,449,343 | 2026-10-09 | 2026-10-09 | live |
 | sibling token substitution, right context, re-run on grown corpus | 1 | 1 | 4 | 313,996,264 | 78,499,066 | 78,499,066 | 78,499,066 | 2026-09-08 | 2026-09-08 | untried |
 | twc 3-token names: prepended token + known 2-token name | 1 | 2 | 57 | 4,477,431,244 | 78,551,425 | 50,879,900 | 172,208,894 | 2026-10-09 | 2026-10-09 | cooling |
@@ -1182,10 +1209,13 @@ table under a name you would not have guessed is the thing you are about to rebu
 | sound path three-word slots | 1 | 1 | 1 | 101,772,379 | 101,772,379 | 101,772,379 | 101,772,379 | 2026-10-05 | 2026-10-05 | untried |
 | cold war suffix precedents resume | 1 | 1 | 3 | 310,645,123 | 103,548,374 | 103,548,374 | 103,548,374 | 2026-09-01 | 2026-09-01 | untried |
 | ab snowball r1 sound: all cores x new endings | 1 | 1 | 2 | 209,071,300 | 104,535,650 | 104,535,650 | 104,535,650 | 2026-10-01 | 2026-10-01 | untried |
+| li  image family | 1 | 9 | 909 | 96,204,625,071 | 105,835,671 | 9,151,653 | 527,779,228 | 2026-10-12 | 2026-10-12 | spent |
 | blackop7 verified image stem bytes crossed with witnessed suffixes | 1 | 1 | 112 | 12,073,198,176 | 107,796,412 | 107,796,412 | 107,796,412 | 2026-10-09 | 2026-10-09 | untried |
 | char substitutions bo4 | 1 | 2 | 23 | 2,650,269,779 | 115,229,120 | 94,629,420 | 147,273,098 | 2026-08-24 | 2026-08-24 | live |
+| model-name stems inside measured image wrappers | 1 | 4 | 441 | 51,948,008,640 | 117,795,937 | 42,720,401 | 683,526,429 | 2026-10-12 | 2026-10-12 | spent |
 | sound uncarried two-segment endings top8000 | 2 | 2 | 8 | 966,616,812 | 120,827,101 | 80,551,401 | 241,654,203 | 2026-09-09 | 2026-09-09 | live |
 | slot swap from end w1+w2 r4 | 1 | 1 | 2 | 243,650,034 | 121,825,017 | 121,825,017 | 121,825,017 | 2026-10-09 | 2026-10-09 | untried |
+| fresh confirmed-only cores against modwar22, own endings | 1 | 1 | 9 | 1,099,155,343 | 122,128,371 | 122,128,371 | 122,128,371 | 2026-10-12 | 2026-10-12 | untried |
 | ab snowball r3 visual: new cores x every known tail | 1 | 7 | 155 | 19,456,178,062 | 125,523,729 | 5,003,103 | 818,255,227 | 2026-10-01 | 2026-10-05 | spent |
 | confirmed-only sound all-boundary cores x uncarried endings | 2 | 7 | 717 | 91,609,516,086 | 127,767,804 | 42,055,113 | 79,082,077 | 2026-08-26 | 2026-08-26 | live |
 | tw-family terrain grids, triples over the top 1500 tokens | 1 | 2 | 369 | 47,286,003,000 | 128,146,349 | 112,585,721 | 148,698,122 | 2026-10-08 | 2026-10-08 | live |
@@ -1217,6 +1247,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | compound word slots, halves x words ranked 5k-30k | 1 | 1 | 12 | 2,662,775,000 | 221,897,916 | 221,897,916 | 221,897,916 | 2026-10-01 | 2026-10-01 | untried |
 | voice phrase grids, small casts, probe | 1 | 1 | 2 | 447,982,774 | 223,991,387 | 223,991,387 | 223,991,387 | 2026-10-05 | 2026-10-05 | untried |
 | sound uncarried three-segment endings top64000 | 2 | 2 | 21 | 4,720,969,764 | 224,808,084 | 214,589,534 | 214,589,534 | 2026-09-09 | 2026-09-09 | live |
+| model-name stems as materials | 1 | 4 | 613 | 140,259,623,328 | 228,808,520 | 106,580,260 | 2,337,660,388 | 2026-10-12 | 2026-10-12 | spent |
 | ab snowball r2 visual: all cores x new name tails | 1 | 10 | 79 | 18,727,983,378 | 237,063,080 | 29,493,796 | 789,727,527 | 2026-09-30 | 2026-10-05 | spent |
 | sound uncarried two-segment endings top4000 | 1 | 1 | 1 | 241,684,406 | 241,684,406 | 241,684,406 | 241,684,406 | 2026-09-09 | 2026-09-09 | untried |
 | uncarried endings over all-boundary truncation cores | 1 | 6 | 4,625 | 1,120,036,280,202 | 242,170,006 | 76,634,118 | 518,821,573 | 2026-08-23 | 2026-08-23 | cooling |
@@ -1234,6 +1265,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | twc terrain-blend grid, triples over the full 0..4000 numeric range | 1 | 2 | 432 | 128,160,064,008 | 296,666,814 | 165,154,721 | 1,456,364,363 | 2026-10-09 | 2026-10-09 | cooling |
 | measured heads of length 5 | 1 | 3 | 31 | 9,541,037,394 | 307,775,399 | 210,743,705 | 210,743,705 | 2026-08-25 | 2026-08-26 | live |
 | tw 3-token names: prepended token + known 2-token name | 1 | 1 | 1 | 320,628,087 | 320,628,087 | 320,628,087 | 320,628,087 | 2026-10-09 | 2026-10-09 | untried |
+| dialogue files as their alias and the squeezed english subtitle | 1 | 3 | 618 | 198,245,053,686 | 320,784,876 | 215,953,217 | 215,953,217 | 2026-10-11 | 2026-10-11 | live |
 | sound uncarried two-segment endings top16000 | 2 | 2 | 6 | 1,933,112,812 | 322,185,468 | 241,639,101 | 241,639,101 | 2026-09-09 | 2026-09-09 | live |
 | uncarried endings over published cores | 1 | 6 | 1,191 | 385,019,657,854 | 323,274,271 | 17,624,983 | 4,062,515,784 | 2026-08-23 | 2026-08-23 | spent |
 | black ops 4 confirmed-only all-boundary uncarried two-segment endings | 1 | 1 | 22 | 7,125,471,254 | 323,885,057 | 323,885,057 | 323,885,057 | 2026-08-30 | 2026-08-30 | untried |
@@ -1275,6 +1307,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | packed twc/tw material codes, three slots, slices 7-8 | 1 | 1 | 235 | 123,737,992,560 | 526,544,649 | 526,544,649 | 526,544,649 | 2026-10-09 | 2026-10-09 | untried |
 | affix sweep | 1 | 1 | 1 | 532,497,168 | 532,497,168 | 532,497,168 | 532,497,168 | 2026-08-20 | 2026-08-20 | untried |
 | yamyamok terrain numeric domain 0..1000, first untested layer 2 | 1 | 1 | 469 | 249,765,552,036 | 532,549,151 | 532,549,151 | 532,549,151 | 2026-10-09 | 2026-10-09 | untried |
+| fresh confirmed-only cores against blkopscw, own endings | 1 | 1 | 2 | 1,099,155,343 | 549,577,671 | 549,577,671 | 549,577,671 | 2026-10-12 | 2026-10-12 | untried |
 | ab snowball r5 visual: all cores x new name tails | 1 | 3 | 36 | 19,893,304,174 | 552,591,782 | 84,935,759 | 3,784,225,412 | 2026-10-01 | 2026-10-05 | spent |
 | confirmed-only all-boundary cores x uncarried 1-segment endings, blkops04 | 1 | 1 | 12 | 6,800,804,899 | 566,733,741 | 566,733,741 | 566,733,741 | 2026-09-01 | 2026-09-01 | untried |
 | ab snowball r6 sound: new cores x every known tail | 1 | 2 | 7 | 3,981,074,790 | 568,724,970 | 331,756,232 | 331,756,232 | 2026-10-01 | 2026-10-01 | live |
@@ -1285,9 +1318,11 @@ table under a name you would not have guessed is the thing you are about to rebu
 | all-boundary cores x uncarried endings, 1 segment(s), top 100000 | 1 | 1 | 6 | 3,777,037,770 | 629,506,295 | 629,506,295 | 629,506,295 | 2026-09-02 | 2026-09-02 | untried |
 | all-boundary sound cores x uncarried sound endings, 3 segment(s), top 100000 | 1 | 3 | 83 | 52,864,928,644 | 636,926,851 | 317,511,508 | 317,511,508 | 2026-09-02 | 2026-09-09 | live |
 | ab snowball r6 visual: all cores x new name tails | 1 | 2 | 8 | 5,143,477,968 | 642,934,746 | 514,347,796 | 857,246,328 | 2026-10-01 | 2026-10-01 | live |
+| model-name remainders under measured image beginnings | 1 | 3 | 401 | 258,129,774,000 | 643,715,147 | 259,949,419 | 28,681,086,000 | 2026-10-12 | 2026-10-12 | spent |
 | all-boundary confirmed sound cores x uncarried sound endings | 1 | 6 | 148 | 95,632,345,436 | 646,164,496 | 132,076,779 | 1,655,224,416 | 2026-09-03 | 2026-09-03 | spent |
 | animation transition grid | 1 | 2 | 2 | 1,295,625,020 | 647,812,510 | 647,812,510 | 647,812,510 | 2026-08-23 | 2026-08-23 | live |
 | ab snowball r2 visual: new slotswap cores x all endings | 1 | 6 | 20 | 12,971,143,237 | 648,557,161 | 176,400,588 | 176,400,588 | 2026-09-29 | 2026-10-05 | live |
+| model-name stems as animations | 1 | 1 | 1 | 649,350,108 | 649,350,108 | 649,350,108 | 649,350,108 | 2026-10-12 | 2026-10-12 | untried |
 | confirmed-only all-boundary cores x uncarried four-segment endings | 1 | 1 | 6 | 3,955,839,558 | 659,306,593 | 659,306,593 | 659,306,593 | 2026-09-01 | 2026-09-01 | untried |
 | cold war sound harvested decorations | 1 | 1 | 105 | 71,392,088,600 | 679,924,653 | 679,924,653 | 679,924,653 | 2026-09-02 | 2026-09-02 | untried |
 | heads of length 3 | 1 | 9 | 717 | 495,967,132,221 | 691,725,428 | 66,983,541 | 53,101,554,920 | 2026-08-22 | 2026-08-29 | spent |
@@ -1300,6 +1335,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | ab snowball r2 sound: all cores x new name tails | 1 | 3 | 17 | 13,449,786,945 | 791,163,937 | 703,145,554 | 2,199,458,079 | 2026-10-01 | 2026-10-05 | cooling |
 | confirmed-only all-boundary cores x uncarried one-segment endings | 1 | 2 | 10 | 7,929,679,296 | 792,967,929 | 495,917,459 | 495,917,459 | 2026-09-01 | 2026-09-01 | live |
 | confirmed-only all-boundary sound cores x uncarried 2-segment sound endings, blkops04 | 1 | 1 | 30 | 23,859,316,386 | 795,310,546 | 795,310,546 | 795,310,546 | 2026-09-01 | 2026-09-01 | untried |
+| weapon-slot plan over weapon codes from bo7 model names | 1 | 1 | 5 | 4,130,989,194 | 826,197,838 | 826,197,838 | 826,197,838 | 2026-10-12 | 2026-10-12 | untried |
 | confirmed-only all-boundary cold war sound cores x uncarried sound endings | 1 | 1 | 17 | 14,337,543,374 | 843,384,904 | 843,384,904 | 843,384,904 | 2026-08-29 | 2026-08-29 | untried |
 | confirmed-only all-boundary uncarried three-segment sound endings cw | 1 | 1 | 18 | 15,368,253,681 | 853,791,871 | 853,791,871 | 853,791,871 | 2026-09-02 | 2026-09-02 | untried |
 | confirmed-only all-boundary uncarried five-segment sound endings bo4 | 1 | 1 | 18 | 15,379,053,789 | 854,391,877 | 854,391,877 | 854,391,877 | 2026-09-02 | 2026-09-02 | untried |
@@ -1323,6 +1359,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | char insertions bo4 sounds | 1 | 1 | 1 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 2026-08-24 | 2026-08-24 | untried |
 | confirmed-only all-boundary sound cores x uncarried 1-segment sound endings, blkops04 | 1 | 1 | 4 | 4,300,971,681 | 1,075,242,920 | 1,075,242,920 | 1,075,242,920 | 2026-09-02 | 2026-09-02 | untried |
 | all-boundary cores x uncarried endings, 2 segments | 1 | 1 | 163 | 177,157,271,555 | 1,086,854,426 | 1,086,854,426 | 1,086,854,426 | 2026-08-23 | 2026-08-23 | untried |
+| model-name remainders under measured material beginnings | 1 | 3 | 233 | 256,322,865,582 | 1,100,098,135 | 657,238,116 | 10,680,119,399 | 2026-10-12 | 2026-10-12 | spent |
 | all-boundary uncarried three-segment endings current | 1 | 1 | 30 | 33,669,536,692 | 1,122,317,889 | 1,122,317,889 | 1,122,317,889 | 2026-09-01 | 2026-09-01 | untried |
 | v2 xanim borrowed endings, ranks 2001-3000 | 1 | 2 | 24 | 28,120,092,000 | 1,171,670,500 | 639,093,000 | 7,030,023,000 | 2026-08-28 | 2026-08-28 | spent |
 | external bo4 xhash cores under uncarried endings ranks 3001-6000 | 1 | 2 | 2 | 2,393,249,484 | 1,196,624,742 | 1,196,624,742 | 1,196,624,742 | 2026-09-01 | 2026-09-04 | live |
@@ -1355,6 +1392,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war sound all-boundary uncarried three-segment endings current | 1 | 1 | 20 | 35,176,151,758 | 1,758,807,587 | 1,758,807,587 | 1,758,807,587 | 2026-09-01 | 2026-09-01 | untried |
 | general ceiling-dropped beginnings | 1 | 1 | 24 | 43,531,074,800 | 1,813,794,783 | 1,813,794,783 | 1,813,794,783 | 2026-09-09 | 2026-09-09 | untried |
 | scoped all-boundary cores (published+confirmed) x uncarried 2-segment endings, top 300000 | 1 | 3 | 83 | 151,735,705,784 | 1,828,141,033 | 1,097,599,310 | 8,438,228,127 | 2026-09-02 | 2026-09-02 | cooling |
+| model-name stems inside measured material wrappers | 1 | 4 | 114 | 215,584,235,856 | 1,891,089,788 | 682,228,594 | 5,389,605,896 | 2026-10-12 | 2026-10-12 | cooling |
 | family walking, whole words | 1 | 77 | 16,801 | 17,397,932,476,760 | 1,984,705,963 | 149,450,943 | 4,187,188,266 | 2026-08-19 | 2026-09-21 | spent |
 | scoped all-boundary cores x all uncarried 2-segment endings | 1 | 1 | 41 | 83,095,021,328 | 2,026,707,837 | 2,026,707,837 | 2,026,707,837 | 2026-09-03 | 2026-09-03 | untried |
 | ab snowball r1 sound: new cores x every known tail | 1 | 6 | 30 | 61,445,246,358 | 2,048,174,878 | 31,002,204 | 29,111,070,345 | 2026-09-30 | 2026-10-06 | spent |
@@ -1414,6 +1452,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | uncarried endings ranks 60001-120000 over published cores | 1 | 2 | 21 | 95,849,557,466 | 4,564,264,641 | 2,995,298,670 | 9,584,955,746 | 2026-08-23 | 2026-08-23 | cooling |
 | sound ceiling-dropped beginnings | 1 | 1 | 5 | 23,995,372,275 | 4,799,074,455 | 4,799,074,455 | 4,799,074,455 | 2026-09-09 | 2026-09-09 | untried |
 | all-boundary cores x confirmed-only-discovered 1-segment endings (general), 2026-09-22 | 1 | 1 | 1 | 4,837,572,675 | 4,837,572,675 | 4,837,572,675 | 4,837,572,675 | 2026-09-22 | 2026-09-22 | untried |
+| whole model-name prefixes under measured material beginnings | 1 | 1 | 10 | 48,517,507,332 | 4,851,750,733 | 4,851,750,733 | 4,851,750,733 | 2026-10-12 | 2026-10-12 | untried |
 | measured tails of length 5 | 2 | 8 | 105 | 533,600,850,606 | 5,081,912,862 | 2,214,417,335 | 4,556,006,356 | 2026-08-25 | 2026-08-25 | live |
 | confirmed-only all-boundary uncarried five-segment sound endings cw | 1 | 1 | 3 | 15,379,053,789 | 5,126,351,263 | 5,126,351,263 | 5,126,351,263 | 2026-09-02 | 2026-09-02 | untried |
 | measured tails of length 7 | 1 | 3 | 51 | 262,284,435,218 | 5,142,832,063 | 3,013,818,603 | 12,497,565,171 | 2026-08-25 | 2026-08-25 | cooling |
@@ -1610,7 +1649,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured shells, head 6 tail 7, top 1600 | 1 | 1 | 1 | 1,313,248,342,747 | 1,313,248,342,747 | 1,313,248,342,747 | 1,313,248,342,747 | 2026-09-03 | 2026-09-03 | untried |
 | measured shells, head 8 tail 6, top 1600 | 1 | 1 | 1 | 1,360,231,817,077 | 1,360,231,817,077 | 1,360,231,817,077 | 1,360,231,817,077 | 2026-09-03 | 2026-09-03 | untried |
 | v2 material borrowed endings, ranks 32001-40000 | 1 | 1 | 1 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 2026-08-25 | 2026-08-25 | untried |
-| not recorded | 1 | 194 | 9,878 | - | - | - | - | 2026-08-19 | 2026-10-10 | unmeasured |
+| not recorded | 1 | 197 | 9,878 | - | - | - | - | 2026-08-19 | 2026-10-12 | unmeasured |
 | bo3 techset tag sweep | 1 | 2 | 1,673 | - | - | - | - | 2026-08-18 | 2026-08-19 | unmeasured |
 | general search, confirmed seeds only | 1 | 4 | 531 | - | - | - | - | 2026-08-20 | 2026-08-31 | unmeasured |
 | cutting at underscores and recombining | 1 | 1 | 435 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
@@ -1633,7 +1672,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-1555 distinct methods, run 1927 ways between them, across 5352 runs. `names` is what each run
+1594 distinct methods, run 1966 ways between them, across 5522 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
@@ -4526,6 +4565,582 @@ the shot grid's two axes for every prefix) **0 / 0.5M and 1 / 1.3M**, and with b
 promote thin frames past the threshold), so it refills a little after any pass, but the large
 step only comes from a new vocabulary: a deeper word list, proper nouns (places, people, units),
 other languages' words where the game uses them.
+
+## BO7 target-witnessed nonadjacent animation pairs — 2026-10-09
+
+`contrib/verified_modern_animation_pairs.py` transfers coupled two-token changes
+only when at least three otherwise identical BO7-held animation frames witness
+that same change. It preserves token distance and every unchanged token, using
+source-verified modern animation names and the shared game hash policy.
+
+**Reaches:** simultaneous nonadjacent edits that one-token substitutions and
+short head/tail replacements cannot express. This adapts the legacy paired-rule
+idea to modern tables and restricts rule evidence to the selected capture.
+
+The first BO7 pass, gaps 2–6, used 153,884 verified seeds and 88,704 eligible
+target-held names. **1,137,241 distinct candidates confirmed 140 new animations**,
+after table, merged-submission and open-PR exclusions. Expected chance matches
+rounded to 0.0000. The generator also records known-name reconstruction controls.
+
+**Spent by:** an unchanged source corpus, target-held witness frames and distance
+band. Regenerating the same candidates under a different label does not reopen it.
+
+## BO7 terrain layer order permutations — 2026-10-09
+
+`contrib/terrain_layer_permutations.py` preserves a target-held terrain material's
+directory and complete two-to-four-layer token multiset, including `n`/`dn`
+qualifiers, and enumerates its distinct orders. Numeric identities are never
+invented or crossed between unrelated materials. Shared readers verify every
+source spelling against its stored key.
+
+**Reaches:** order changes omitted by numeric identity substitution and triple
+insertion. The BO7 pass measured 77,921 layer multisets across eight directories,
+reconstructed 87,279 known orders, and **confirmed 129 new materials from 376,350
+unseen candidates**. Confirmation excluded authoritative table keys, merged names
+and open submissions; expected chance matches rounded to 0.0000.
+
+**Spent by:** all permutations of the current target-held multisets. New order
+finds alone do not justify rerunning because they retain the same multisets.
+A separate qualifier-completion diagnostic tested 98,919 candidates and found
+zero unclaimed matches; that seam is measured negative on this BO7 corpus.
+
+## BO7 package-witnessed animation modifiers — 2026-10-09
+
+`contrib/verified_animpkg_clip_modifiers.py` uses source-verified animation-package
+names as per-weapon attachment vocabulary. Both package and base clip must be held
+in BO7. An insertion boundary must be witnessed by three distinct existing
+clip/base/modifier relationships; the candidate retains the source weapon identity.
+
+**Reaches:** complete modifier blocks present in package names but absent from
+the corresponding animation family. On this BO7 corpus, 2,985 held packages
+provided modifiers for 245 weapon families. 15,159 known relationships supported
+213 insertion contexts. **1,228,982 candidates confirmed 89 new animations.**
+
+**Spent by:** unchanged package/clip names and target-held boundary evidence.
+Dictionary widening alone provides no new evidence.
+
+## BO7 sound files from witnessed alias-prefix translations — 2026-10-09
+
+`contrib/verified_alias_file_prefixes.py` reverses witnessed file-to-alias prefix
+translations. Each rule needs three distinct shared bodies and retains the exact
+directory and common body anchors. Reconstructed file families receive only that
+directory's observed take/encoding tails. It changes a proven namespace prefix,
+unlike the existing unchanged-alias-to-file method.
+
+**493,482 candidates confirmed three new BO7 sound files.** This follows an
+18-alias file-to-alias pass and a separate 39-file basename-byte solve. The source
+sound-pool canonicalization regression was repaired before sound-file confirmation.
+Some earlier contributors used builds that already searched sound files, so the
+regression is not evidence that historical BO7 sound methods are unspent.
+
+**Spent by:** unchanged rule witnesses, directory-specific encoding/take tails and
+target-held aliases. Mirroring the namespace rule at the suffix instead measured
+61,044 unseen candidates and zero unclaimed matches on this corpus.
+
+## BO7 frozen image suffix with witnessed preceding byte — 2026-10-09
+
+`contrib/frozen_image_suffix_byte.py` keeps each image's suffix intact and changes
+only its preceding stem byte. The suffix must have three BO7-held sibling-core
+witnesses and exceed three characters; replacement bytes must occur at that same
+position with that exact suffix on BO7. It reuses the verified source/cut helpers
+from the library's byte-before-channel method.
+
+**1,715,197 candidates confirmed 47 new images**, with 104,853 known frame/byte
+controls. This bounded in-place subset avoids the broader inverse method's
+billions of Python reverse queries. **Spent by:** unchanged source frames and
+suffix-specific alphabets; it does not measure the full cross-suffix space.
+
+## Additional BO7 negative measurements — 2026-10-09
+
+- Paired animation rules at disjoint gaps 7–17: 11,233 candidates, zero unclaimed
+  matches. Gaps 12–17 had no supported rules. Do not refine this band on the same corpus.
+- Witnessed image-prefix reordering: 23,856 candidates, zero unclaimed matches.
+- Atomic repeated image identifiers: no rules supported by two independent sibling
+  witnesses; no confirming pass warranted.
+- Nonweapon sound-alias to animation prefix translations: 27 witnessed rules,
+  6,312 candidates and zero unclaimed matches, using 35,968 BO7-held nonweapon
+  clips and 31,157 aliases. Do not widen this namespace seam on the same evidence.
+- Paired-rule closure over the 89 new package-derived animation names: 680
+  previously untested candidates, zero unclaimed matches. The opposite direction
+  was already included in the package pass; no redundant rerun was necessary.
+
+## BO7 sound basename endings inside tokens — 2026-10-09
+
+`contrib/verified_sound_basename_tails.py` builds compiled plans that cut four
+characters before the encoding tail, strictly inside an alphanumeric basename
+token. Prefixes come from verified modern sound names; endings, including original
+encoding, occur in target-held sounds. It neither enumerates a character alphabet
+nor repeats the underscore-boundary cuts of historical sound segment plans.
+
+112,204 prefixes and 5,478 observed endings produced **614,765,716 engine
+candidates and two new BO7 sound files**. Positive controls reconstructed 80,056
+known target files; 11,123 target prefixes had multiple observed basename endings.
+The measured plan had no material overlap in the recorded plan sketches.
+**Spent by:** these source prefixes and target endings at the selected cut width.
+The small yield is a measurement, not a reason to widen the same idea repeatedly.
+
+A directory-witnessed closure of this session's 44 fresh sound files added one
+more sound file from 95 candidates. `contrib/verified_sound_delta_closure.py`
+accepts a frozen seed file, verifies every seed against the selected sound-file
+pool, and uses only the same directory's observed codec/language and same-width
+take endings. The original 44-row seed file was checksummed for reproducibility;
+this was a delta over new names, not a repeat of the old full-corpus sound sweep.
+
+## BO7 compiled image stem-byte and witnessed-suffix product — 2026-10-09
+
+`contrib/image_stem_byte_suffix_plan.py` expresses the full compact byte-before-
+suffix relation as a compiled three-list plan. Verified image cores minus their
+last byte supply the beginnings; the byte alphabet occurs at that position in
+BO7; suffixes have three distinct target-held sibling-core witnesses. It extends
+the suffix-preserving method to other witnessed suffixes without emitting billions
+of Python strings. The engine selects forward hashing on these dimensions.
+
+**63,229 beginnings × 36 bytes × 5,303 suffixes**, plus unsuffixed cores,
+yielded **12,073,198,176 candidates and 112 new BO7 images** after the earlier
+47-image pass. Inputs occupied 2.22 MB. The estimated chance-match count was
+0.0010. Structural measurement found 2,197,863 expanded cores absent from current
+all-boundary stems and 3,164 suffixes absent from saved image-ending lists.
+
+**Spent by:** these exact three lists. The byte/suffix relation is established;
+unchanged-list reruns or new labels cannot recover additional names.
+
+## BO7 complete image stem-pair product — 2026-10-09
+
+`contrib/image_stem_pair_suffix_plan.py` replaces the final two stem bytes with
+complete two-byte fragments actually witnessed on target-held image cores.
+It retains the same three-sibling-core suffix evidence as the one-byte method;
+it never builds a Cartesian character alphabet.
+
+61,925 prefixes × 677 witnessed pairs × 5,306 suffixes, plus bare repaired
+cores, produced **222,486,555,075 candidates and 73 new BO7 images**. Only 3.630%
+overlapped the current one-byte product. Expected coincidental matches: 0.0185.
+All 73 additions fit the intended plan shape; 59 used two digits, 13 two letters,
+and one a letter/digit pair. UI charms accounted for 36 additions.
+
+**Spent by:** the exact lists. The yield declined from the one-byte product;
+subsequent work should follow the numeric/UI signal rather than widen blindly.
+An unrun full three-byte product was sized at 834.943 billion candidates with
+4.793% overlap against width two; sizing is not a yield measurement.
+
+## BO7 numeric image families from pair-pass evidence — 2026-10-09
+
+`contrib/image_numeric_triple_family_plan.py` follows the numeric signal from
+the complete stem-pair pass. It selects the first-two-token families of verified
+numeric pair findings, removes three actual trailing digits from verified image
+cores, and recombines only complete numeric triples witnessed in those target
+families. Suffixes retain the global three-sibling-core witness requirement and
+must also occur on numeric images in the selected family.
+
+715 prefixes × 170 witnessed triples × 83 suffixes, plus bare cores, covered
+**10,210,200 candidates and confirmed 3 new BO7 images**. There were 2,148 known
+target numeric controls and 6,487,908 candidates beyond the executed pair plan.
+The compact plan inputs total 29 KB.
+
+**Spent by:** these evidence families and exact lists. This targeted positive
+does not justify an unrestricted numeric range or a blind three-byte expansion.
+
+## BO7 known model vocabulary to visual wrappers: negative — 2026-10-09
+
+The available model history contains no embedded-name dump for BO7. Source-
+verified historical modern and published legacy model names supplied only 462
+already-known names represented in its model capture. These were vocabulary
+seeds only; no modern models were searched or reported as recoveries.
+
+A probe removed up to two leading/trailing underscore tokens, kept long cores
+(at least three tokens and twelve characters), and learned source-wrapper to
+visual-wrapper translations supported by at least three distinct shared cores.
+Material rules supplied 357 known controls and 9,338 candidates; the one image
+rule supplied three controls and 446 candidates. **Neither produced a new match**
+after current database, history, findings and open-claim exclusions.
+
+This target-held wrapper restriction is closed on the available model vocabulary.
+An actual new verified embedded-model source would be a reason to revisit it;
+widening the old source wrappers is not.
+
+## External CSV names, independently rehashed by capture and type — 2026-10-09
+
+`contrib/external_csv_capture_names.py` reads only a CSV's `name` column.
+Supplied hashes, shortened keys, function labels and category metadata are never
+evidence. It applies the shared game/type hash policy and requires membership
+in the requested capture pool before emitting candidates for `confirm_list`.
+It rejects unsupported pools and modern models. The confirmer and submitter
+retain their normal table, history and open-PR exclusions.
+
+A 163,102-row external export supplied **9,951 new BO7 keys**, confirmed and
+submitted as 3,717 materials, 2,234 images, 643 animations, 3,353 sound aliases
+and four sound files. Another 80 image rows genuinely shared keys with materials
+but were excluded at submission after those material keys were claimed. Modern
+model matches were omitted. All 37 applicable game/pool extraction checks agreed
+with an independent rehash. The raw export remains outside tracked source; source
+SHA-256 and extraction counts are recorded locally, and verified findings supply
+the reusable vocabulary.
+
+**Spent by:** the same raw names and capture/hash policies. Wrong source keys
+cannot create finds, and unmatched raw strings are not seeds for later methods.
+
+## Fresh material/image vocabulary through witnessed wrappers — 2026-10-09
+
+`contrib/verified_material_image_delta.py` extracts material bases absent from
+the prior verified corpus. It learns complete image prefix/suffix pairs from
+at least three distinct target-held material/image cores, preserving each pair's
+correlation. The external harvest supplied 3,391 new material bases. With 203
+witnessed wrapper pairs, **688,373 candidates confirmed 692 new BO7 images**.
+The original frozen-corpus probe used 196 pairs; seven additional current pairs
+did not change the final new-name count.
+
+`contrib/verified_image_material_delta.py` performs the reciprocal derivation
+on only the fresh image seeds. It retains complete prefix/suffix/material-directory
+triples, including marker directories, supported by three independent prior
+cores. Simultaneously harvested materials are removed from baseline vocabulary
+and convention evidence. **16,107 candidates confirmed 57 new BO7 materials**.
+Final generation had 348 supported triples and 21,080 pair controls.
+
+The later 293-image prefix delta supplied a separate fresh source set. Its 361
+currently witnessed triples produced 2,066 candidates; removing two previously
+tested names left **2,064 candidates and 25 new BO7 materials**. The earlier
+material harvest remained in the verified baseline and exclusions.
+
+Both generators verify the capture game, input spelling and supplied findings
+keys. **Spent by:** these delta bases and witnessed correlated wrappers. This is
+new source vocabulary opening an established relation, not a renamed full rerun.
+
+## Further measured negatives after the external harvest — 2026-10-09
+
+- Alias-to-file prefix inference on the 3,353 new aliases added 815 witnessed
+  rules, 3,073 inferred families and 30,010 candidates beyond the prior alias
+  corpus, but **zero new sound files** after complete exclusions. Do not widen
+  this same delta.
+- Raw plan lists discard lines beginning with `#`, including material marker
+  directories. A focused probe of 64,466 image cores omitted by older raw swaps
+  crossed with 80 target-held marker-directory/end combinations tested 5,157,280
+  candidates, reproduced four controls and found **zero new materials**. Use
+  `0,value` plan-list rows to retain leading markers; this negative does not
+  justify a global replay.
+
+## Two independent animation deltas from the external vocabulary — 2026-10-09
+
+`contrib/verified_animation_context_delta.py` removes the 643 new verified clips
+from its counterfactual baseline, then applies only paired-token rules that cross
+the three-independent-frame threshold because of those clips. The 438 newly
+eligible directed rules produced 30,829 candidates; removing 27 previously tested
+names left **30,802 candidates and 16 new BO7 animations**.
+
+The complementary `contrib/verified_animation_source_delta.py` keeps independently
+witnessed old rules and applies them only to the 643 new clips. Training excludes
+the clips and the 16 prior descendants. It removed 450 previously generated names
+from 5,989 candidates, leaving **5,539 candidates and 10 new BO7 animations**.
+
+**Spent by:** the explicit seed set, baseline support and prior candidate spaces.
+New context support and new application vocabulary are distinct deltas; neither
+requires rerunning every old rule over every old name.
+
+## Frozen image-pair factors with genuinely new prefixes — 2026-10-09
+
+`contrib/image_stem_pair_prefix_delta_plan.py` uses only the 2,314 verified CSV
+images and 692 material-wrapper recoveries as source vocabulary. It retains the
+executed pair plan's exact 677 complete fragments and 5,306 witnessed suffixes.
+One of the 1,497 proposed prefixes was already present, leaving 1,496 new ones.
+
+**5,374,887,144 candidates confirmed 293 new BO7 images.** There were 2,252 known
+target controls, including 2,223 source controls. The prior aligned one-byte
+product covered none; aligned numeric-family overlap was 1,932 candidates. These
+are aligned-factor overlap counts, not a proof against every alternative suffix
+decomposition. Expected coincidences: 0.000446.
+
+The small family-sibling delta in `contrib/image_family_sibling_delta.py` had
+28,070 candidates and four provisional fresh matches. All four were covered by
+this prefix pass before its confirmation was queued, so it was not rerun.
+
+**Spent by:** these new prefixes and frozen pairs/suffixes. Revalidate witnesses
+and supplied seed keys; a larger alphabet is a different, unmeasured search.
+
+## Jointly witnessed alias substitutions on verified new seeds — 2026-10-09
+
+`contrib/verified_alias_paired_seed_delta.py` carries the atomic paired-token
+relation into sound aliases. Both nonadjacent tokens change together at distance
+2..6; at least three independent baseline sibling frames must witness each
+change. All 3,353 CSV aliases are held out of training and only those names are
+application seeds. Independent per-slot offers are never multiplied.
+
+**29,352 candidates confirmed 2,677 aliases; 2,676 were submitted** after the
+remaining already-claimed key was dropped. The frozen baseline contains 125,367
+target-held aliases, of which 124,441 meet the token-length bounds.
+
+`contrib/verified_alias_paired_continuation.py` applied the unchanged original
+rules once to those 2,677 confirmed descendants. The baseline excludes both
+original seeds and descendants; its frame/rule counts agree exactly with the
+first pass. After removing 4,590 earlier candidates, **41,811 additional
+candidates confirmed and submitted 1,180 new BO7 aliases**. The generator rejects
+contaminated baselines and records all supplied input digests.
+
+**Spent by:** the frozen baseline, explicit application seeds and earlier tested
+candidate sets. Any further continuation needs an actual verified new frontier;
+this is not a driver that repeats existing methods.
+
+## Frozen alias rules traversed through verified matches — 2026-10-09
+
+`contrib/verified_alias_frontier.py` turns the same fixed rule relation into a
+finite graph search. Only the 1,180 newly confirmed continuation aliases start
+the queue. A generated name enters the queue only after its recomputed hash
+matches the selected capture's actual alias pool and passes all current key
+exclusions. Unmatched intermediate strings never expand. Each name and key
+expands once; descendants never train rules.
+
+The original 125,367-name baseline and rule counts remain unchanged, with all
+3,353 original seeds, 2,677 first descendants and 1,180 current seeds excluded
+from training. Earlier candidate sets exclude 71,163 strings. **20,991 new
+candidate attempts confirmed and submitted 79 BO7 aliases**, with gains by
+verified depth of 70, seven, one and one. Eight matches required paths using
+more than one distinct position pair. The queue emptied naturally after 1,259
+verified vertices, below the explicit 100,000-attempt cap.
+
+The generator records input digests and parent/root/position provenance. A
+budget stop reports partial work rather than claiming exhaustion. Replay and
+invariant checks covered unmatched intermediates, exclusions, cycles, key
+deduplication, multiple verified depths and budget termination.
+
+**Spent by:** this explicit verified frontier, frozen rules and prior candidate
+sets. The frontier is empty; another round on these inputs cannot add anything.
+
+## Reusing the external vocabulary across modern captures — 2026-10-09
+
+After reserving BO7 matches first, direct raw-name validation added **94 unique
+keys** elsewhere: BO6 nine, MW7 26, MWIII 34 and MWII 25. Rechecking the exact
+typed visual/animation delta candidates added another **16**: BO6 eleven,
+MWIII four and MWII one. The additional Cold War alias was already claimed by
+the modern harvest. Modern models remained excluded throughout.
+
+Exact-name reuse of the three new BO7 alias candidate sets (92,154 names) added
+**six further unique aliases**: BO6 five and MWIII one. All 3,936 BO7 matches
+were reserved first; current tables, history, findings and live open-PR claims
+excluded prior work. Four BO6 names and the MWIII name came from the original
+paired seed delta; the last BO6 name came from the verified-frontier candidates.
+The continuation set added none elsewhere. No rules were retrained or widened.
+
+## New alias rules witnessed by independent source vocabulary — 2026-10-09
+
+`contrib/verified_alias_external_rule_delta_20261010.py` measures rule growth
+from the original 3,353 independently rehashed external aliases. Those names
+had been held out of the earlier paired-rule training. Add them to the frozen
+125,367-name baseline and retain only paired rules whose support crosses from
+below three to at least three independent sibling frames. Token gaps 2..6,
+4..18-token names, the 2..24-filler frame bound and joint two-token changes
+remain unchanged. All 3,936 generated descendants stay out of training.
+
+The independent delta supplied 1,086 new directed rules. Applying only those
+rules once to 132,656 verified target aliases, then removing all 92,154 earlier
+candidate strings, left **24,289 candidates and 787 officially confirmed and
+submitted BO7 aliases** ([PR #2531](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2531)).
+The reusable generator requires explicit baseline, witness and application
+files, records their digests, and preserves full table/history/findings/claim
+exclusions. Replay reproduced the diagnostic candidate file byte for byte;
+six invariant checks covered threshold crossing, old-rule exclusion, application
+holdout, prior candidates, bounded termination and disjoint training inputs.
+
+**Spent by:** these independent witnesses, fixed baseline, application names and
+prior candidate files. Generated descendants are not new training evidence.
+
+A separate finite traversal with `contrib/verified_alias_frontier.py` then used
+the 787 confirmed aliases as its only root frontier. Its expanded baseline was
+fixed at **128,720 independently sourced names** (125,367 original plus 3,353
+external); descendants never trained rules. Removing 116,443 prior strings left
+**26,714 new attempts and 742 officially confirmed and submitted aliases**
+([PR #2533](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2533)),
+recorded in `findings/blackop7/run_20261009-212444_list`. The 1,529 verified vertices produced
+725, 16 and one new match by depth, and the frontier emptied without reaching
+the bound. This closes that explicit frontier under those frozen rules; it does
+not justify retraining on its output or repeating the same traversal.
+
+Exact-name reuse of the 24,289 independent-rule-delta candidates then confirmed
+and submitted **78 additional unique MWIII aliases**
+([PR #2534](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2534)).
+All BO7-reserved keys, all games' history and live claims were excluded first.
+This used the same generator output without new candidates or rule training;
+it is spent for that candidate file on the MWIII alias capture.
+
+## Material-witnessed complete interior image blocks — 2026-10-09
+
+`contrib/material_witnessed_image_blocks.py` learns complete two- or three-token
+interior substitutions from target-held modern material basenames. Each rule
+needs three distinct original basename pairs; copies under different material
+directories do not count separately. The immediate left/right anchors remain
+fixed when transferring a rule into a target-held image. Same-width changes to
+only one token are excluded, and individual slot alphabets are never crossed.
+
+150,888 held materials and 75,053 held images supplied 7,604 directed rules and
+3,009 eligible source images. There were 1,497 known image reconstruction
+controls. **6,801 unseen candidates confirmed and submitted 23 BO7 images**
+([PR #2532](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2532));
+none of those 23 belongs to the four earlier byte/pair/numeric image products.
+The candidates form 3,777 mostly single-prefix groups, so a name list is more
+practical than thousands of compiled plans.
+
+**Spent by:** unchanged material rule witnesses and image source frames. This is
+material-only joint evidence transferred to images, not an independent token
+cross product or a rerun of the earlier image suffix plans.
+
+A review found that overlapping repeated-token cuts could count the same two
+basenames more than once. Support now deduplicates the original basename pair,
+with an embedded doctest for repeated cuts, directory copies and three actual
+pairs. Reconstructing the exact original 150,888-material/75,053-image corpus
+reproduced the original candidates byte for byte after the fix: all 7,604 rules,
+6,801 candidates and 23 submitted keys retain support. The corrected generator
+was published to its original carrying PR #2531; no findings were removed.
+
+## Frozen BO7 image-pair vocabulary transferred to BO6 — 2026-10-09
+
+`contrib/bo6_borrowed_bo7_image_pairs.plan.txt` reuses the exact frozen factors
+from `contrib/image_stem_pair_suffix_plan.py`: 61,925 prefixes, 677 complete
+pairs and 5,306 suffixes, plus the engine's empty ending. Those conventions
+were witnessed in BO7. **No BO6 witness claim is made**; this is borrowed
+verified modern-image vocabulary tested against BO6's separate image capture.
+
+**222,486,555,075 candidates confirmed and submitted 15 BO6 images**
+([PR #2530](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2530)).
+`--backend auto` selected CUDA after workload calibration; hash policy,
+validation, exclusions and candidate scope remained the normal image search.
+
+**Spent by:** these exact factor files on this BO6 capture. The different backend
+does not make an already tested product new, and the transfer does not authorize
+widening its alphabet or claiming target-specific naming evidence.
+
+## Further BO7 animation and sound-file negatives — 2026-10-09
+
+All four measurements below used verified source spellings, the selected
+capture's typed pool and shared hash policy, and current table/history/findings/
+open-claim exclusions. They wrote diagnostics only; no confirming pass or
+reusable generator was warranted. Each is closed for its stated witnesses and
+inputs; do not tune or widen the same negative on unchanged material.
+
+- **Separated animation triples:** atomic changes at three positions, gaps 2..6
+  and total span at least six, needed three independent target-held sibling
+  frames. Every changed token differed, and repeated-identifier-only triples
+  were excluded. 71,414 eligible held seeds produced 12,001 unseen candidates;
+  prior paired/package/context/source spaces removed 6,459, leaving **5,542
+  candidates and zero new animations** against 7,422 unresolved IDs.
+  Evidence: `logs/bo7_animation_triples_probe/report.json`.
+- **Fresh weapon-alias event tails to animations:** 7,288 verified post-harvest
+  aliases supplied 197 weapon bodies and 103 event tails, including 58 absent
+  from the old 7,769-event plan. Its frozen 61 endings produced 3,532 completed
+  tails outside the old product. Crossed only with 588 animation heads having
+  three held-clip witnesses, this gave **2,076,816 cells, 23 prior candidates
+  skipped, one held control and zero new animations**. Evidence:
+  `logs/bo7_alias_event_animation_delta/report.json`.
+- **Inside-token animation pairs with frozen suffixes:** complete two-byte
+  fragments occurred with the same one/two-token suffix on BO7; cuts stayed
+  inside alphanumeric tokens. Each suffix needed three sibling cores, each
+  with at least two tails. 155,103 verified names supplied 3,581 tails, 173,484
+  frames and 173,191 known controls. Removing 3,341 prior candidates from
+  6,895,467 left **6,892,126 candidates and zero new animations**. Evidence:
+  `logs/bo7_animation_frozen_pair_probe/report.json`.
+- **Alias-to-file token reordering:** correlated alias/file prefixes, exact
+  directory and nonidentity core permutation needed three distinct target-held
+  alias/file witnesses. Cores had 3..12 unique tokens after at most three literal
+  leading tokens; repeated-token ambiguity was excluded. Common core anchors
+  and that directory's recorded take/encoding tails remained mandatory. 133,443
+  held aliases and 108,893 file representations supplied 549 rules and 235
+  known-file controls. **1,700 unseen candidates matched zero unresolved sound
+  files**. Evidence: `logs/bo7_alias_file_reordering_20261010/report.json`;
+  diagnostic: `logs/measure_bo7_alias_file_reordering_20261010.py`.
+
+## Image triples conditioned on family and exact suffix: negative — 2026-10-09
+
+A separate probe kept each image's first-two-token family and exact suffix,
+offering complete three-byte interior stem endings with at least three
+independent prefix witnesses. Each source prefix needed two observed variants;
+no independent character alphabet was multiplied. Fifteen groups covered
+11,949 cells and reconstructed 1,399 controls with each control's own prefix
+held out of its witnesses. Every control was already expressible by prior plans.
+
+Exact exclusion against every suffix decomposition of the executed byte, pair,
+pair-prefix-delta and numeric-triple products removed 9,887 cells. The remaining
+**2,062 frozen candidates had zero held BO7 image matches, even before known-key
+exclusion**. Reports: `logs/bo7_image_conditioned_triples_recon/report.json` and
+`probe.json`. The scratch scripts remain under `logs/`.
+
+**Spent by:** these family/suffix witnesses and residual frames. This result
+does not support a global triple expansion or parameter tuning of the same seam.
+
+## Embedded model vocabulary supplies new visual source cores — 2026-10-09
+
+`contrib/verified_model_visual_source_delta.py` independently rehashes raw source
+strings into the BO7 model capture solely to obtain embedded-name vocabulary.
+It never searches or reports modern models as recoveries. The 1,588 supplied
+strings were absent from the earlier 462-model source baseline. Complete visual
+wrappers require three target-held shared-core witnesses; source and target
+prefix/suffix pairs remain correlated, and prior candidates are excluded.
+
+**8,313 candidates confirmed and submitted 97 BO7 images**
+([PR #2535](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2535));
+**47,590 candidates confirmed and submitted seven materials**
+([PR #2537](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2537)).
+The measurement reconstructed 157 image and 177 material controls. Supplied-key,
+capture-membership, source-delta and correlated-wrapper checks passed.
+
+The 97 images plus the 23 material-block images then supplied 38 proposed
+pair-plan prefixes. Excluding the union of **both** executed beginning lists
+(61,925 plus 1,496, disjoint) left 37 genuinely new prefixes. The unchanged 677
+pairs and 5,306 suffixes gave **132,935,043 candidates and eight new BO7 images**
+([PR #2536](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2536)).
+`image_stem_pair_prefix_delta_plan.py` built the factors and `--backend auto`
+selected CUDA. There were 31 known seed controls; four results trace to block
+source prefixes and four to model-source prefixes. The block witness correction
+above preserves every ancestor. No alphabet or suffix was expanded.
+
+**Spent by:** these explicit source strings, witnessed wrappers and new-prefix
+factors. New application vocabulary does not authorize retraining on descendants.
+
+## Independently witnessed atomic alias interior blocks — 2026-10-09
+
+`contrib/verified_alias_interior_blocks.py` learns canonical complete adjacent or
+variable-length interior replacements of one to three tokens. Each rule needs
+three distinct original name pairs spanning at least six names, fixed immediate
+anchors, and a frame holding at most 24 variants. Single-token edits and the
+nonadjacent two-token changes already covered by paired rules are omitted.
+
+The fixed 128,720-name independent baseline trained 71,936 directed rules;
+5,465 descendants were application-only. Applying once to 134,185 held aliases
+reconstructed 97,750 controls and removed 6,768 earlier candidates. **557,984
+new candidates confirmed and submitted 514 BO7 aliases**
+([PR #2538](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2538)).
+Seven provenance, scope and input-validation checks passed; replay reproduced
+the exact ordered candidate output. Modern alias confirmation keeps all 64 bits.
+
+**Spent by:** the immutable baseline, explicit application and prior candidate
+files. Neither unmatched candidates nor descendants become training witnesses.
+
+`contrib/verified_alias_union_frontier.py` then used exactly those 514 confirmed
+aliases as roots for one finite graph containing both unchanged paired-token and
+complete-block relations. Both train once on the same digest-checked 128,720-name
+independent baseline. Six previous candidate spaces are excluded; only fresh
+same-capture matches can expand, and each name/key expands once.
+
+**14,824 new attempts confirmed 89 BO7 aliases**: 72 at depth one and 17 at depth
+two. Of these, 86 arrived via paired edges and three via block edges; no successful
+path after its root happened to require both relations. The 603 verified vertices
+exhausted the frontier without reaching the 100,000-attempt bound. Seven targeted
+traversal/provenance checks passed and replay matched the diagnostic byte for
+byte. This explicit frontier is closed; there is no pending continuation.
+
+## Joint image prefix and suffix translations — 2026-10-09
+
+`contrib/verified_image_joint_wrappers.py` changes both complete wrappers while
+preserving an intact body of at least three tokens. The 71,519-image frozen
+baseline supplied 1,435 translations, each supported by three disjoint original
+name pairs with different bodies. There were 4,099 controls after excluding each
+control's own pair from its evidence. Neither wrapper is empty and their token
+alphabets are never multiplied independently.
+
+Of 45,192 unseen candidates, exact previous byte/pair/numeric products removed
+15,976 and prior lists removed none. **29,216 residual candidates confirmed and
+submitted three BO7 images**
+([PR #2539](https://github.com/KingslayerKyle/hash-slinging-slasher/pull/2539)).
+Five invariant checks passed and the generator reproduced the diagnostic names.
+This irregular, small product used CPU confirmation.
+
+**Spent by:** the explicit frozen baseline and previous candidate spaces. A
+separate underscore join/split idea had only two material source pairs, neither
+meeting three independent witnesses, so no confirming pass was run.
 
 ## Candidates worth building, with the measurement that decides each
 
